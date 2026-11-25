@@ -1,1 +1,1 @@
-[![AI Coding Activity on UsageAtlas](https://usageatlas.com/api/cards/egor/heatmap.svg?theme=dark)](https://usageatlas.com/@egor)
+[![AI Coding Token Usage on UsageAtlas](https://usageatlas.com/api/cards/egor/tokens.svg?period=all&theme=dark)](https://usageatlas.com/@egor)
